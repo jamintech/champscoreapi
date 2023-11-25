@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCpOd4+Bv5TlSKtLqF6Ir1VVmKR+HwKE2y1uSVYsFRUFqvAP2N2vqZPIN6xEXXLSTT+ZuqWzi/WU4XtQXLGE6g==",
+  "success": true,
+  "projectFilePath": "/Users/benfrazier/champs/apis/jamintech.champs.coreAPI/jamintech.champs.coreAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/benfrazier/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/benfrazier/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/benfrazier/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/benfrazier/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/benfrazier/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/benfrazier/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
